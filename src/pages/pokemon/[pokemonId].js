@@ -41,8 +41,8 @@ export default function Pokemon({ pokemon }) {
       <h1 className={styles.title}>{pokemon.name}</h1>
       <Image
         src={`https://cdn.traction.one/pokedex/pokemon/${pokemon.id}.png`}
-        width="200"
-        height="200"
+        width={200}
+        height={200}
         alt={pokemon.name}
       />
       <div>

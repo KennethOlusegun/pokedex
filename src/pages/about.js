@@ -8,10 +8,10 @@ export default function About() {
       <h1>Sobre o projeto</h1>
       <p>PokeNext é um App construído em Next.js para consultar Pokémons.</p>
       <Image
-        src="/images/charizard.png"
-        alt="Charizard"
-        width="300"
-        height="300"
+			  src="/images/charizard.png"
+			  alt="Charizard"
+			  width={300}
+			  height={300}
       />
     </div>
   )
