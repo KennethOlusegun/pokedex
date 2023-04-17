@@ -9,7 +9,7 @@ export default function Navbar() {
     <nav className={styles.navbar}>
       <div className={styles.logo}>
         <Image
-          src="/images/pokeball.png"
+          src="/img/pokeball.png"
           width={30}
           height={30}
           alt="PokeNext"

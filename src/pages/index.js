@@ -32,7 +32,7 @@ export default function Home({ pokemons }) {
           Poke<span>Next</span>
         </h1>
         <Image
-          src="/images/pokeball.png"
+          src="/img/pokeball.png"
           width={50}
           height={50}
           alt="PokeNext"
